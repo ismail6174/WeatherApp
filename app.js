@@ -1,4 +1,4 @@
-let apiKey = "869799b5ac91e62a1a5e6eea25f6b7dd";
+let apiKey = "*************************";
 
     let input = document.getElementById("cityInput");
     let divEle = document.getElementById("weatherResult");
